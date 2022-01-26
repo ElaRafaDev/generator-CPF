@@ -1,5 +1,5 @@
 # generator-CPF
- Valid cpf generator with javascript
+ Valid cpf generator with javascript <br>
  In the terminal type: 
  ```
  npm install
